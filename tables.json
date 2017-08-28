@@ -1,0 +1,16 @@
+{
+    "tables": [
+        
+        {
+          "name":"InfoHO",
+           "table":"B4-J7",
+           "orient":"horizontal"
+        },
+        {
+            "name":"InfoVI",
+             "table":"A5-J7",
+             "orient":"vertical"
+        }
+
+    ]
+}
